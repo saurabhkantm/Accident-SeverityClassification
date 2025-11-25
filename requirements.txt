@@ -1,0 +1,64 @@
+# Accident Severity Classification System - Complete Dependencies
+# Created by: Saurabh Kant Mishra
+# Last Updated: 2024
+
+# ==========================================
+# CORE FRAMEWORK
+# ==========================================
+streamlit==1.32.0
+
+# ==========================================
+# IMAGE PROCESSING
+# ==========================================
+Pillow==10.2.0
+
+# ==========================================
+# SCIENTIFIC COMPUTING
+# ==========================================
+numpy==1.26.4
+pandas==2.1.4
+
+# ==========================================
+# DATA VISUALIZATION
+# ==========================================
+plotly==5.18.0
+matplotlib==3.8.3
+
+# ==========================================
+# MACHINE LEARNING (Uncomment when using real model)
+# ==========================================
+# tensorflow==2.15.0
+# keras==2.15.0
+# scikit-learn==1.4.0
+
+# ==========================================
+# OPTIONAL: Advanced Features
+# ==========================================
+# opencv-python==4.9.0        # For advanced image processing
+# torch==2.1.2                # If using PyTorch instead
+# torchvision==0.16.2         # PyTorch vision utilities
+
+# ==========================================
+# OPTIONAL: API Development
+# ==========================================
+# fastapi==0.109.0            # REST API framework
+# uvicorn==0.27.0             # ASGI server
+# python-multipart==0.0.6     # File upload support
+
+# ==========================================
+# OPTIONAL: Deployment
+# ==========================================
+# gunicorn==21.2.0            # Production server
+# docker==7.0.0               # Container support
+
+# ==========================================
+# OPTIONAL: Database
+# ==========================================
+# sqlalchemy==2.0.25          # Database ORM
+# psycopg2-binary==2.9.9      # PostgreSQL driver
+
+# ==========================================
+# UTILITIES
+# ==========================================
+python-dateutil==2.8.2
+pytz==2024.1
